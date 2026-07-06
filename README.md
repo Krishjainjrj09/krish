@@ -11,18 +11,14 @@
   <img src="https://komarev.com/ghpvc/?username=Krishjainjrj09&style=for-the-badge&color=2575fc" alt="Profile views"/>
 </p>
 ---
- 
-### 🚀 About Me
- 
-- 🔭 Currently working on **PawConnect Server** — a backend service project
-- 🌱 Continuously improving my skills in **web development** and **application design**
-- 💬 Ask me about **JavaScript, HTML, and full-stack app development**
-- 📫 Reach me on GitHub: **[@Krishjainjrj09](https://github.com/Krishjainjrj09)**
-- ⚡ Fun fact: I love turning small ideas into working apps
+🚀 About Me
+🔭 Currently working on PawConnect Server — a backend service project
+🌱 Continuously improving my skills in web development and application design
+💬 Ask me about JavaScript, HTML, and full-stack app development
+📫 Reach me on GitHub: @Krishjainjrj09
+⚡ Fun fact: I love turning small ideas into working apps
 ---
- 
-### 🛠️ Tech Stack
- 
+🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -32,36 +28,54 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 ---
- 
-### 📌 Featured Projects
- 
+📌 Featured Projects
 <table align="center">
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/Krishjainjrj09/pawconnect-server">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishjainjrj09&repo=pawconnect-server&theme=tokyonight" />
+        <img src="./assets/pawconnect-preview.jpeg" width="100%"/>
       </a>
+      <br/>
+      <b>🐾 PawConnect</b><br/>
+      Full-stack pet welfare platform — adoption listings, lost & found with live map, vaccine alerts, and an admin dashboard.<br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square"/>
     </td>
-    <td width="50%">
-      <a href="https://github.com/Krishjainjrj09/quiz-app-application">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishjainjrj09&repo=quiz-app-application&theme=tokyonight" />
+    <td width="50%" align="center">
+      <a href="https://github.com/Krishjainjrj09/pawconnect-server">
+        <img src="./assets/pawconnect-banner.jpg" width="100%"/>
       </a>
+      <br/>
+      <b>🐾 PawConnect — Project Highlights</b><br/>
+      Pet adoption system, live lost & found map, smart vaccine alerts, and analytics dashboard — built and deployed end to end.
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
+      <a href="https://github.com/Krishjainjrj09/mini-project1">
+        <img src="./assets/documind-preview.jpeg" width="100%"/>
+      </a>
+      <br/>
+      <b>🧠 DocuMind — Document Management Dashboard</b><br/>
+      AI-assisted document management system with upload, tracking, and reporting features.
+    </td>
+    <td width="50%" align="center">
+      <a href="https://your-portfolio-link.com">
+        <img src="./assets/portfolio-preview.jpeg" width="100%"/>
+      </a>
+      <br/>
+      <b>🌐 Personal Portfolio</b><br/>
+      AI & Machine Learning developer portfolio — showcasing projects, services, and work.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <a href="https://github.com/Krishjainjrj09/Employee-manager">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishjainjrj09&repo=Employee-manager&theme=tokyonight" />
       </a>
     </td>
-    <td width="50%">
-      <a href="https://github.com/Krishjainjrj09/mini-project1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishjainjrj09&repo=mini-project1&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" colspan="2" align="center">
+    <td width="50%" align="center">
       <a href="https://github.com/Krishjainjrj09/educational-organisation">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishjainjrj09&repo=educational-organisation&theme=tokyonight" />
       </a>
@@ -69,9 +83,7 @@
   </tr>
 </table>
 ---
- 
-### 📊 GitHub Stats
- 
+📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishjainjrj09&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishjainjrj09&theme=tokyonight" height="165"/>
@@ -80,16 +92,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishjainjrj09&layout=compact&theme=tokyonight" />
 </p>
 ---
- 
-### 🐍 Contribution Snake
- 
+🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Krishjainjrj09/Krishjainjrj09/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
 > ℹ️ The snake animation above needs a one-time GitHub Action setup (see notes below) — it will render blank until that's done.
- 
 ---
- 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" />
 </p>
